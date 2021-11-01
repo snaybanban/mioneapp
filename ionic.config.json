@@ -1,0 +1,7 @@
+{
+  "name": "mioneapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
