@@ -1,0 +1,8 @@
+{
+	"appId": "com.example.app",
+	"appName": "mioneapp",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+  "npmClient": "npm",
+  "cordova": {}
+}
